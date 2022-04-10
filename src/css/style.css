@@ -1,0 +1,91 @@
+
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700");
+
+.headre_iphone{
+            margin-top: 9rem !important;
+        }
+        html {
+            width: 100%;
+            max-width: 100%;
+            overflow-x: hidden;
+        }
+        body {
+            width: 100%;
+            max-width: 100%;
+            overflow-x: hidden;
+        }
+        .body_cont{
+            margin-top: 8.5rem;
+        }
+        #headre_app{
+            color: whitesmoke;
+            text-align: center;
+            padding-top: 3.4rem;
+            font-size: 18px;
+            font-weight: 700;
+            position: fixed;
+            width: 100%;
+            z-index: 8;
+        }
+        .gif{
+        height: 60%;
+        width: 60%;
+        }
+        .foo {
+        opacity: 1;
+        transition: opacity 1s;
+        }
+        .foo_loader {
+        opacity: 0;
+        transition: opacity 0.5s;
+        }
+        .foo_lock {
+        opacity: 0;
+        }
+        .preloader {
+        background-color: #fff;
+        position: fixed;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        z-index: 1000;
+        }
+        .preloader__loader {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        text-align: center;
+        transform: translate(-50%, -50%)
+        }
+.nav-link{
+  pointer-events: all;
+}
+.body-enter {
+    opacity: 0;
+}
+.body-enter-active {
+    opacity: 1;
+    transition: opacity .5s ease-in;
+}
+.body-exit {
+    opacity: 1;
+}
+.body-exit-active {
+    opacity: 0;
+    transition: opacity .5s;
+}
+.loader-enter {
+    opacity: 0;
+}
+.loader-enter-active {
+    opacity: 1;
+    transition: opacity 2s;
+}
+.loader-exit {
+    opacity: 1;
+}
+.loader-exit-active {
+    opacity: 0;
+    transition: opacity 2s ease-out;
+}
