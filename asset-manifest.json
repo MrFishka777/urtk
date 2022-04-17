@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/urtk/static/css/main.7d827f76.css",
-    "main.js": "/urtk/static/js/main.8133b6fc.js",
+    "main.css": "/urtk/static/css/main.fc148ba8.css",
+    "main.js": "/urtk/static/js/main.865de828.js",
     "static/media/curved14.jpg": "/urtk/static/media/curved14.12c9ea54425c4f1bc1d7.jpg",
     "static/media/nucleo-icons.svg": "/urtk/static/media/nucleo-icons.01ebecaf50461162d4bc.svg",
     "static/media/nucleo-icons.eot": "/urtk/static/media/nucleo-icons.19abb5402a664606b14c.eot",
@@ -9,11 +9,11 @@
     "static/media/nucleo-icons.woff": "/urtk/static/media/nucleo-icons.c82c9b7c40130b7116d3.woff",
     "static/media/nucleo-icons.woff2": "/urtk/static/media/nucleo-icons.cba267483aa6a7cb6e33.woff2",
     "index.html": "/urtk/index.html",
-    "main.7d827f76.css.map": "/urtk/static/css/main.7d827f76.css.map",
-    "main.8133b6fc.js.map": "/urtk/static/js/main.8133b6fc.js.map"
+    "main.fc148ba8.css.map": "/urtk/static/css/main.fc148ba8.css.map",
+    "main.865de828.js.map": "/urtk/static/js/main.865de828.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d827f76.css",
-    "static/js/main.8133b6fc.js"
+    "static/css/main.fc148ba8.css",
+    "static/js/main.865de828.js"
   ]
 }
