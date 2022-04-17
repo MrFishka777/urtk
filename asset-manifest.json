@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.f978a90e.css",
-    "main.js": "/static/js/main.7f9fca52.js",
-    "static/media/curved14.jpg": "/static/media/curved14.12c9ea54425c4f1bc1d7.jpg",
-    "static/media/nucleo-icons.svg": "/static/media/nucleo-icons.01ebecaf50461162d4bc.svg",
-    "static/media/nucleo-icons.eot": "/static/media/nucleo-icons.19abb5402a664606b14c.eot",
-    "static/media/nucleo-icons.ttf": "/static/media/nucleo-icons.d6a66724e7a7bf1bba65.ttf",
-    "static/media/nucleo-icons.woff": "/static/media/nucleo-icons.c82c9b7c40130b7116d3.woff",
-    "static/media/nucleo-icons.woff2": "/static/media/nucleo-icons.cba267483aa6a7cb6e33.woff2",
-    "index.html": "/index.html",
-    "main.f978a90e.css.map": "/static/css/main.f978a90e.css.map",
-    "main.7f9fca52.js.map": "/static/js/main.7f9fca52.js.map"
+    "main.css": "/urtk/static/css/main.7d827f76.css",
+    "main.js": "/urtk/static/js/main.e37cd0f7.js",
+    "static/media/curved14.jpg": "/urtk/static/media/curved14.12c9ea54425c4f1bc1d7.jpg",
+    "static/media/nucleo-icons.svg": "/urtk/static/media/nucleo-icons.01ebecaf50461162d4bc.svg",
+    "static/media/nucleo-icons.eot": "/urtk/static/media/nucleo-icons.19abb5402a664606b14c.eot",
+    "static/media/nucleo-icons.ttf": "/urtk/static/media/nucleo-icons.d6a66724e7a7bf1bba65.ttf",
+    "static/media/nucleo-icons.woff": "/urtk/static/media/nucleo-icons.c82c9b7c40130b7116d3.woff",
+    "static/media/nucleo-icons.woff2": "/urtk/static/media/nucleo-icons.cba267483aa6a7cb6e33.woff2",
+    "index.html": "/urtk/index.html",
+    "main.7d827f76.css.map": "/urtk/static/css/main.7d827f76.css.map",
+    "main.e37cd0f7.js.map": "/urtk/static/js/main.e37cd0f7.js.map"
   },
   "entrypoints": [
-    "static/css/main.f978a90e.css",
-    "static/js/main.7f9fca52.js"
+    "static/css/main.7d827f76.css",
+    "static/js/main.e37cd0f7.js"
   ]
 }
