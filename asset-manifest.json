@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/urtk/static/css/main.409d561c.css",
-    "main.js": "/urtk/static/js/main.d43caac7.js",
+    "main.css": "/urtk/static/css/main.4ca7719a.css",
+    "main.js": "/urtk/static/js/main.407ac3da.js",
     "static/media/nucleo-icons.svg": "/urtk/static/media/nucleo-icons.01ebecaf50461162d4bc.svg",
     "static/media/nucleo-icons.eot": "/urtk/static/media/nucleo-icons.19abb5402a664606b14c.eot",
     "static/media/nucleo-icons.ttf": "/urtk/static/media/nucleo-icons.d6a66724e7a7bf1bba65.ttf",
     "static/media/nucleo-icons.woff": "/urtk/static/media/nucleo-icons.c82c9b7c40130b7116d3.woff",
     "static/media/nucleo-icons.woff2": "/urtk/static/media/nucleo-icons.cba267483aa6a7cb6e33.woff2",
     "index.html": "/urtk/index.html",
-    "main.409d561c.css.map": "/urtk/static/css/main.409d561c.css.map",
-    "main.d43caac7.js.map": "/urtk/static/js/main.d43caac7.js.map"
+    "main.4ca7719a.css.map": "/urtk/static/css/main.4ca7719a.css.map",
+    "main.407ac3da.js.map": "/urtk/static/js/main.407ac3da.js.map"
   },
   "entrypoints": [
-    "static/css/main.409d561c.css",
-    "static/js/main.d43caac7.js"
+    "static/css/main.4ca7719a.css",
+    "static/js/main.407ac3da.js"
   ]
 }
