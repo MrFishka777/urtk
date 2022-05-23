@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/urtk/static/css/main.16a620b2.css",
-    "main.js": "/urtk/static/js/main.2ddb6c39.js",
-    "static/media/nucleo-icons.svg": "/urtk/static/media/nucleo-icons.01ebecaf50461162d4bc.svg",
-    "static/media/nucleo-icons.eot": "/urtk/static/media/nucleo-icons.19abb5402a664606b14c.eot",
-    "static/media/nucleo-icons.ttf": "/urtk/static/media/nucleo-icons.d6a66724e7a7bf1bba65.ttf",
-    "static/media/nucleo-icons.woff": "/urtk/static/media/nucleo-icons.c82c9b7c40130b7116d3.woff",
-    "static/media/nucleo-icons.woff2": "/urtk/static/media/nucleo-icons.cba267483aa6a7cb6e33.woff2",
-    "index.html": "/urtk/index.html"
+    "main.css": "/pfurtk/static/css/main.1401f63c.css",
+    "main.js": "/pfurtk/static/js/main.93075345.js",
+    "static/media/nucleo-icons.svg": "/pfurtk/static/media/nucleo-icons.01ebecaf50461162d4bc.svg",
+    "static/media/nucleo-icons.eot": "/pfurtk/static/media/nucleo-icons.19abb5402a664606b14c.eot",
+    "static/media/nucleo-icons.ttf": "/pfurtk/static/media/nucleo-icons.d6a66724e7a7bf1bba65.ttf",
+    "static/media/nucleo-icons.woff": "/pfurtk/static/media/nucleo-icons.c82c9b7c40130b7116d3.woff",
+    "static/media/nucleo-icons.woff2": "/pfurtk/static/media/nucleo-icons.cba267483aa6a7cb6e33.woff2",
+    "index.html": "/pfurtk/index.html"
   },
   "entrypoints": [
-    "static/css/main.16a620b2.css",
-    "static/js/main.2ddb6c39.js"
+    "static/css/main.1401f63c.css",
+    "static/js/main.93075345.js"
   ]
 }
