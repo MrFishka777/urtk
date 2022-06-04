@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/urtk/static/css/main.c48a4885.css",
-    "main.js": "/urtk/static/js/main.2ddb6c39.js",
+    "main.css": "/urtk/static/css/main.7981c9b9.css",
+    "main.js": "/urtk/static/js/main.51b3f7cf.js",
     "static/media/nucleo-icons.svg": "/urtk/static/media/nucleo-icons.01ebecaf50461162d4bc.svg",
     "static/media/nucleo-icons.eot": "/urtk/static/media/nucleo-icons.19abb5402a664606b14c.eot",
     "static/media/nucleo-icons.ttf": "/urtk/static/media/nucleo-icons.d6a66724e7a7bf1bba65.ttf",
@@ -10,7 +10,7 @@
     "index.html": "/urtk/index.html"
   },
   "entrypoints": [
-    "static/css/main.c48a4885.css",
-    "static/js/main.2ddb6c39.js"
+    "static/css/main.7981c9b9.css",
+    "static/js/main.51b3f7cf.js"
   ]
 }
